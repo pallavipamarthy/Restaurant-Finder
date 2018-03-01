@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurant Finder</string>
+    <string name="title_activity_restaurant_map">Restaurant Finder</string>
+    <string name="not_available_string">Not Available</string>
+    <string name="no_network_connection_text">No network connection found.Please connect to network and try again</string>
+    <string name="restaurant_set_pref">restaurantSet</string>
+    <string name="phone_heading_text">Phone: </string>
+    <string name="website_heading_text">Website: </string>
+    <string name="hours_heading_text">Hours: </string>
+    <string name="rating_heading_text">Rating: </string>
+    <string name="review_heading_text">Reviews: </string>
+</resources>
